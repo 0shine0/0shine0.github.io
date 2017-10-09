@@ -1,0 +1,1003 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"po",
+				"popFileName"
+			],
+			[
+				"pop",
+				"popFile"
+			],
+			[
+				"save",
+				"savePopulation"
+			],
+			[
+				"Fitn",
+				"FitnessFunction"
+			],
+			[
+				"FI",
+				"FitnessFunction"
+			],
+			[
+				"Chromo",
+				"Chromosome"
+			],
+			[
+				"sec",
+				"secondBestChromosome"
+			],
+			[
+				"wo",
+				"worstChromosome"
+			],
+			[
+				"nw",
+				"newChild"
+			],
+			[
+				"wor",
+				"worstChromosome"
+			],
+			[
+				"new",
+				"newChildFitness"
+			],
+			[
+				"bes",
+				"bestChromosome"
+			],
+			[
+				"sub",
+				"subWorstFitness"
+			],
+			[
+				"fi",
+				"fitness"
+			],
+			[
+				"fitn",
+				"fitness"
+			],
+			[
+				"fit",
+				"FitnessFunction"
+			],
+			[
+				"Fit",
+				"FitnessFunction"
+			],
+			[
+				"Fi",
+				"FitnessFunction"
+			],
+			[
+				"be",
+				"best_chromosome"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"csv",
+				"csv_schewel"
+			],
+			[
+				"r",
+				"random"
+			],
+			[
+				"com",
+				"combo_csv"
+			],
+			[
+				"solut",
+				"solutionList"
+			],
+			[
+				"sol",
+				"solutionList"
+			],
+			[
+				"solution",
+				"solutionSet"
+			],
+			[
+				"solu",
+				"solutionSet"
+			],
+			[
+				"so",
+				"solutionSet"
+			],
+			[
+				"cart",
+				"cart_size"
+			],
+			[
+				"nu",
+				"num1_bin"
+			],
+			[
+				"num",
+				"num1_b"
+			],
+			[
+				"debu",
+				"debugging"
+			],
+			[
+				"get",
+				"getNewNode"
+			],
+			[
+				"us",
+				"usedDigits"
+			],
+			[
+				"v",
+				"visible"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"col",
+				"col-sm-6"
+			],
+			[
+				"coor",
+				"color"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"day",
+				"day-foot"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"tab",
+				"table-row"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"da",
+				"day-head"
+			],
+			[
+				"trans",
+				"transition\tCSS - transition: ;"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"cir",
+				"circle-lg"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"non",
+				"none"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"con",
+				"content-box"
+			],
+			[
+				"re",
+				"repeat"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"med",
+				"media smartphone\tsmartphone"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"card-rule",
+				"card-rules-toggle"
+			],
+			[
+				"card-r",
+				"card-rules-toggle"
+			],
+			[
+				"car",
+				"card-rules"
+			],
+			[
+				"card-de",
+				"card-details"
+			],
+			[
+				"d",
+				"double"
+			],
+			[
+				"bore",
+				"border-bottom-width"
+			],
+			[
+				"spa",
+				"letter-spacing"
+			],
+			[
+				"inlin",
+				"inline-flex"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ful",
+				"fullscreen-min"
+			],
+			[
+				"media",
+				"media smartphone\tsmartphone"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 23907,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "readme.txt",
+			"settings":
+			{
+				"buffer_size": 193,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/C++ (console).sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++ (console).sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ (console).sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++ (console).sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "lo",
+		"selected_items":
+		[
+			[
+				"lo",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"vi",
+				"View: Toggle Menu"
+			],
+			[
+				"pyth",
+				"Build With: Python"
+			],
+			[
+				"pyto",
+				"Set Syntax: Python"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"cc++",
+				"Set Syntax: Objective-C++"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tag",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"minima",
+				"View: Toggle Minimap"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"r",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"th",
+				"Material Theme: Configuration"
+			],
+			[
+				"ma",
+				"Material Theme: Configuration"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 194.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/anand/Desktop/0shine0.github.io"
+	],
+	"file_history":
+	[
+		"/C/Users/anand/Desktop/Machine Learning/Practical/fitnessFunction.py",
+		"/C/Users/anand/Desktop/Machine Learning/Practical/03-GA-Part-III.py",
+		"/C/Users/anand/Desktop/Machine Learning/temp.py",
+		"/C/Users/anand/Desktop/0shine0.github.io/index.html",
+		"/C/Users/anand/Desktop/Machine Learning/Practical/fitnessFunction - second.pyc",
+		"/C/Users/anand/Desktop/Machine Learning/Practical/04-DE-temp.py",
+		"/C/Users/anand/Desktop/Machine Learning/Practical/population.txt",
+		"/C/Users/anand/Desktop/Machine Learning/Practical/02-Random Optimization.py",
+		"/C/Users/anand/Desktop/Machine Learning/Practical/temp2.py",
+		"/C/Users/anand/Desktop/Machine Learning/Quiz 1/Ques 2/100/resultGABasic.csv",
+		"/C/Users/anand/Desktop/Machine Learning/Quiz 1/resultDEBasic - Best (3).csv",
+		"/C/Users/anand/Desktop/Machine Learning/Practical/resultDEBasic.csv",
+		"/C/Users/anand/Desktop/Machine Learning/Practical/resultDEBasic - Best.csv",
+		"/C/Users/anand/Desktop/Machine Learning/Assignment -4 (Random Optimization).py",
+		"/C/Users/anand/Desktop/Machine Learning/Programs/error.py",
+		"/C/Users/anand/Desktop/bookfoxi.txt",
+		"/C/Users/anand/Desktop/Machine Learning/Programs/csv/error.csv",
+		"/C/Users/anand/Desktop/Machine Learning/csv/error.csv",
+		"/C/Users/anand/Desktop/Machine Learning/Assignment -5 (Random Optimization).py",
+		"/C/Users/anand/Desktop/Artificial Intelligence/Notes/Inference Rules",
+		"/C/Users/anand/Desktop/Machine Learning/csv/schewel.csv",
+		"/C/Users/anand/Desktop/Machine Learning/05 - Code - GA - PSO - DE in Python/02-Random Optimization.py",
+		"/C/Users/anand/Desktop/Machine Learning/05 - Code - GA - PSO - DE in Python/03-GA-Part-III.py",
+		"/C/Users/anand/Desktop/Machine Learning/05 - Code - GA - PSO - DE in Python/01-SubSetProblem-2-Random.py",
+		"/C/Users/anand/Desktop/Machine Learning/csv/combo.csv",
+		"/C/Users/anand/Desktop/Advanced Data Structures/Lab Programs/temp.py",
+		"/C/Users/anand/Desktop/Advanced Data Structures/Lab Programs/BST.cpp",
+		"/C/Users/anand/AppData/Roaming/Sublime Text 3/Packages/User/C++ (console).sublime-build",
+		"/C/Users/anand/Desktop/Web Dev/saturnalia_new/css/contact.css",
+		"/C/Users/anand/Desktop/Artificial Intelligence/Notes/temp2.py",
+		"/C/Users/anand/Desktop/Artificial Intelligence/Notes/temp.py",
+		"/C/Users/anand/Desktop/Web Dev/saturnalia_new/css/style.css",
+		"/C/Users/anand/Desktop/Web Dev/saturnalia_new/css/home.css",
+		"/C/Users/anand/Desktop/demo/index.html",
+		"/C/Users/anand/Desktop/Web Dev/saturnalia_new/culture.inc.php",
+		"/C/Users/anand/Desktop/Web Dev/saturnalia_new/home.inc.php",
+		"/C/Users/anand/Desktop/Web Dev/saturnalia_new/tech.inc.php",
+		"/C/Users/anand/Desktop/Web Dev/saturnalia_new/css/tech-card.css",
+		"/C/Users/anand/Desktop/Web Dev/saturnalia_new/tech.json",
+		"/C/Users/anand/Desktop/Web Dev/saturnalia_new/js/tech-card.js",
+		"/C/Users/anand/Desktop/Web Dev/saturnalia_new/css/cultural.css",
+		"/C/Users/anand/Desktop/Web Dev/saturnalia_new/cultural.json",
+		"/C/Users/anand/AppData/Local/Temp/Temp1_page-scroll-effects.zip/page-scroll-effects/css/style.css",
+		"/C/Users/anand/AppData/Local/Temp/Temp1_page-scroll-effects.zip/page-scroll-effects/css/reset.css",
+		"/C/Users/anand/Desktop/Web Dev/saturnalia_new/css/attract.css",
+		"/C/Users/anand/Desktop/Web Dev/saturnalia_new/attract.inc.php",
+		"/C/Users/anand/Desktop/Web Dev/saturnalia_new/contact.inc.php",
+		"/C/Users/anand/Desktop/ml-20m/ratings.csv",
+		"/C/Users/anand/Desktop/ml-20m/tags.csv",
+		"/C/Users/anand/Desktop/Web Dev/sat/attract.inc.php",
+		"/C/Users/anand/Desktop/Web Dev/sat/contact.inc.php",
+		"/C/Users/anand/Desktop/Web Dev/sat/css/contact.css",
+		"/C/Users/anand/Desktop/Web Dev/sat/index.html",
+		"/C/Users/anand/Desktop/Web Dev/sat/culture.inc.php",
+		"/C/Users/anand/Desktop/Web Dev/sat/index.php",
+		"/C/Users/anand/Desktop/Web Dev/sat/tech.inc.php",
+		"/C/Users/anand/Desktop/Web Dev/sat/css/style-main.css",
+		"/C/Users/anand/Desktop/Web Dev/sat/sponsor.inc.php",
+		"/C/Users/anand/Desktop/Web Dev/sat/home.php",
+		"/C/Users/anand/Desktop/Web Dev/sat/js/main.js",
+		"/C/Users/anand/Desktop/Web Dev/sat/tech.json",
+		"/C/Users/anand/Desktop/Web Dev/sat/js/card.js",
+		"/C/Users/anand/Desktop/Web Dev/sat/css/card.css",
+		"/C/Users/anand/Desktop/Web Dev/sat/temp.py",
+		"/C/Users/anand/Desktop/Web Dev/temp/css/style.css",
+		"/C/Users/anand/Desktop/Web Dev/temp/css/style-main.css",
+		"/C/Users/anand/Desktop/Web Dev/temp/culture.inc.php",
+		"/C/Users/anand/Desktop/Web Dev/temp/index.html",
+		"/C/Users/anand/Desktop/Web Dev/temp/home.html",
+		"/C/Users/anand/Desktop/Web Dev/temp/card.html",
+		"/C/Users/anand/Desktop/Web Dev/temp/css/card.css",
+		"/C/Users/anand/Downloads/page-scroll-effects/css/style.css"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ",
+			"100",
+			"9999999",
+			")]))",
+			"0",
+			"\n,",
+			"1",
+			"\n,",
+			"print0",
+			"(([",
+			"FitnessFunction",
+			"0",
+			"-0.01",
+			"\t",
+			"print",
+			"dot",
+			"print",
+			"MemoriseGlobalBest",
+			"Best",
+			"# Function ",
+			" + ",
+			"sum",
+			"sum1",
+			"s",
+			"print",
+			">>>",
+			"3",
+			"csv_schewel",
+			"10",
+			"3",
+			"schewel",
+			"Fitness",
+			"Chromosome",
+			"()",
+			"string",
+			"i",
+			"num",
+			"1",
+			"show",
+			"Order()",
+			"Order",
+			";",
+			"\t\t\tcout<<root->data;\n",
+			"ins",
+			"\t\t\t",
+			".",
+			"=",
+			"class",
+			"node",
+			"\n",
+			"range(10)",
+			"range(10):",
+			"range(10):\n\t\tif",
+			"range(10)",
+			"!=",
+			"\n",
+			"=",
+			"[i for i in range(10) if not i in usedDigits]:",
+			"usedDigits = {}",
+			"usedDigits",
+			"\n",
+			"=",
+			"usedDigits = {b,a,s,e,l,g,m}",
+			"]:",
+			"range(0,10)",
+			"s",
+			"e",
+			"xrange",
+			"pass",
+			"=",
+			"xrange",
+			"pass",
+			"baseball",
+			"l",
+			"a",
+			"b",
+			"e",
+			"s",
+			"=0",
+			"\n",
+			"for",
+			"xrange",
+			"\n",
+			"loyalto",
+			"t",
+			"pompeian",
+			"= T",
+			"+",
+			"13",
+			"photo\" : \"c",
+			"50",
+			"1",
+			"8",
+			"span",
+			"<h2>",
+			"sm",
+			"<div class=\"middle\">",
+			"img-",
+			"bck_presat",
+			" square",
+			"200px",
+			"gd",
+			"100",
+			"md-4",
+			"visible",
+			"dashed",
+			"center class=\"middle\"",
+			"<center",
+			"day\" id=\"day",
+			"iv>\n\t\t\t\t\t\t<div class=\"circle circle-lg\"></div>\n\t\t\t\t\t\t<div class=\"day-h",
+			"center",
+			"sm-4",
+			"solid",
+			"NOVEMBER",
+			"15",
+			"<div class=\"row\">\n\t\t\t\t\t\t\t<div class=\"ci",
+			"30",
+			"circle-sm",
+			"circle-lg",
+			"circle",
+			"Abhishek",
+			"0",
+			"NOVEMBER</div",
+			";\n",
+			"50",
+			"uyfuj",
+			"0,",
+			"255"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\anand\\Desktop\\0shine0.github.io"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4052,
+								4052
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 19,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"webcolors",
+									"hex",
+									"hex_compressed",
+									"rgba",
+									"hsl",
+									"rgb",
+									"hsla"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".html",
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1507390557.45,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "readme.txt",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								193,
+								193
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 19,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".txt",
+								"current_syntax": "Text/Plain text",
+								"enabled": false,
+								"last_updated": 1507390557.45
+							},
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 79.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 274.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 138.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\anand\\Desktop\\Machine Learning\\Machine Learning.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 374.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
